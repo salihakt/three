@@ -1,0 +1,13 @@
+*{
+
+    box-sizing: border-box;
+}
+.clm{
+
+    float: left;
+    padding: 5px;
+}
+.slide{
+
+    size: cover;
+}
